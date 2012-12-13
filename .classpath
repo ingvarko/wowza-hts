@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="bin" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Wowza/lib/bcprov-ext-jdk15-146.jar"/>
+	<classpathentry kind="lib" path="D:/Wowza/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/Wowza/lib/jid3lib-0.5.4.jar"/>
+	<classpathentry kind="lib" path="D:/Wowza/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="D:/Wowza/lib/wms-amazonutil.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/D:/Wowza/documentation/serverapi"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Wowza/lib/wms-ant.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/D:/Wowza/documentation/serverapi"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Wowza/lib/wms-bootstrap.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/D:/Wowza/documentation/serverapi"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Wowza/lib/wms-commons-modeler.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/D:/Wowza/documentation/serverapi"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Wowza/lib/wms-core.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/D:/Wowza/documentation/serverapi"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Wowza/lib/wms-drm.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/D:/Wowza/documentation/serverapi"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Wowza/lib/wms-dvr.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/D:/Wowza/documentation/serverapi"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Wowza/lib/wms-httpstreamer-cupertinostreaming.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/D:/Wowza/documentation/serverapi"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Wowza/lib/wms-httpstreamer-sanjosestreaming.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/D:/Wowza/documentation/serverapi"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Wowza/lib/wms-httpstreamer-smoothstreaming.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/D:/Wowza/documentation/serverapi"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Wowza/lib/wms-jlayer.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/D:/Wowza/documentation/serverapi"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Wowza/lib/wms-mediareader-flv.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/D:/Wowza/documentation/serverapi"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Wowza/lib/wms-mediareader-h264.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/D:/Wowza/documentation/serverapi"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Wowza/lib/wms-mediareader-mp3.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/D:/Wowza/documentation/serverapi"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Wowza/lib/wms-mediareader-smil.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/D:/Wowza/documentation/serverapi"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Wowza/lib/wms-mediawriter-flv.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/D:/Wowza/documentation/serverapi"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Wowza/lib/wms-mediawriter-h264.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/D:/Wowza/documentation/serverapi"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Wowza/lib/wms-server.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/D:/Wowza/documentation/serverapi"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Wowza/lib/wms-stream-file.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/D:/Wowza/documentation/serverapi"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Wowza/lib/wms-stream-live.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/D:/Wowza/documentation/serverapi"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Wowza/lib/wms-stream-publish.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/D:/Wowza/documentation/serverapi"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Wowza/lib/wms-stream-record.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/D:/Wowza/documentation/serverapi"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Wowza/lib/wms-stream-rtp.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/D:/Wowza/documentation/serverapi"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Wowza/lib/wms-stream-shoutcast.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/D:/Wowza/documentation/serverapi"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Wowza/lib/wms-transcoder.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/D:/Wowza/documentation/serverapi"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Wowza/lib/wms-transport-security.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/D:/Wowza/documentation/serverapi"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Wowza/lib/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="D:/json/commons-beanutils-1.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/json/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/json/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/json/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/json/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/json/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="lib/jersey-client-1.8.jar"/>
+	<classpathentry kind="lib" path="lib/jax-rs-ri-2.0-m09-1.jar"/>
+	<classpathentry kind="lib" path="D:/Jersey/guava-13.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Jersey/hk2-api-2.1.33.jar"/>
+	<classpathentry kind="lib" path="D:/Jersey/hk2-core-2.0.5.jar"/>
+	<classpathentry kind="lib" path="D:/Jersey/hk2-locator-2.1.33.jar"/>
+	<classpathentry kind="lib" path="D:/Jersey/hk2-utils-2.1.33.jar"/>
+	<classpathentry kind="lib" path="D:/Jersey/jackson-core-2.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Jersey/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="D:/Jersey/jax-rs-ri-2.0-m09-1.jar"/>
+	<classpathentry kind="lib" path="D:/Jersey/jax-rs-ri-2.0-m09-1-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Jersey/jax-rs-ri-2.0-m09-1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Jersey/jersey-archive-1.15.zip"/>
+	<classpathentry kind="lib" path="D:/Jersey/osgi-resource-locator-1.0.1.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/hotel-manager"/>
+	<classpathentry kind="lib" path="D:/cglib/cglib-nodep-2.2.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
